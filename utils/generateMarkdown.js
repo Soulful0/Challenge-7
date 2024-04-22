@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   return `
   
   ## Title
-  #${data.title}
+  ${data.title}
   
   ## Description
   ${data.description}
