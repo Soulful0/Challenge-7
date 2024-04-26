@@ -44,6 +44,9 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
 
+  ## Table of Contents
+  ${data.tableofcontents}
+
   ## Installation
   ${data.installation}
 
@@ -60,7 +63,12 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
+  # My Github - https://github.com/Soulful0
   ${data.questions}
+
+  ## Email
+  # My Email - fakeemail@email.com
+  ${data.email}
   `;
 }
 

@@ -18,7 +18,7 @@ const questions = [
   {
     type: "input",
     message: "Provide a Table of Contents",
-    name: "termsofservice",
+    name: "tableofcontents",
   },
   {
     type: "input",
@@ -50,6 +50,11 @@ const questions = [
     type: "input",
     message: "Other Questions",
     name: "questions",
+  },
+  {
+    type: "input",
+    message: "Your email for further questions",
+    name: "email",
   },
 ];
 

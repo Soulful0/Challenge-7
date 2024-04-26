@@ -1,28 +1,36 @@
 
   
   ## Title
-  Challenge-7
+  Something Cool
   
   ## Description
-  This assignment is COMPLETED
+  A cool description
+
+  ## Table of Contents
+  A cool Table of Contents
 
   ## Installation
-  It took a lot of work and research, but I learned how to code node.js
+  I downloaded it off the internet
 
   ## Usage
-  No usage info
+  I dont know what this means
 
-  ![GitHub license](https://img.shields.io/badge/license-APACHE_2.0-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## License
-This project is licensed under the APACHE 2.0 License. 
-See the [LICENSE](License not found) for more information.
+This project is licensed under the MIT License. 
+See the [LICENSE](https://opensource.org/licenses/MIT) for more information.
 
   ## Contributing
-  Nothing
+  No information
 
   ## Tests
-  No tests
+  no tests
 
   ## Questions
-  Nope
+  # My Github - https://github.com/Soulful0
+  no
+
+  ## Email
+  # My Email - fakeemail@email.com
+  johnpork@gmail.com
   
